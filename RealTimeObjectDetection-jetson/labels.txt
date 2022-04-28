@@ -1,0 +1,14 @@
+Radioactive
+Organic_Peroxyde
+Non_Flammable_Gas
+Corrosive
+Inhalation_Hazard
+Explosive
+Flammable_Liquid
+Dangerous_When_Wet
+Oxidizer
+Spontaneously_Combustible
+Flammable_Solid
+Infectious_Substance
+Flammable_Gas
+
