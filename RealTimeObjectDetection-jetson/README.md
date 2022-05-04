@@ -1,4 +1,4 @@
-# Tensorflow Object Detection Walkthrough with Raspberry Pi
+# Tensorflow Object Detection Walkthrough with Jetson
 <p>The following repository will allow you to leverage Tensorflow Object Detection models that have been converted to TFLite on a Jetson.<p/>
 ## Steps
 <br/>
